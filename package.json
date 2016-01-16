@@ -1,0 +1,15 @@
+{
+  "name": "learning-mongo-m101x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Egorov",
+  "license": "MIT"
+}
