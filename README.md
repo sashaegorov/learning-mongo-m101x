@@ -1,5 +1,10 @@
 # TODO
+
+- ~~Add CoffeeScript~~
 - ~~Add CoffeeScript linter~~
+- Translate this to RethinkDB
+
+# Home assignment 1
 
 For this section's assessment, you will fill out the functions defined in
 `interface.coffee`. These functions will query a collection of movies - the
