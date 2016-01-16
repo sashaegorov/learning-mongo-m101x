@@ -1,2 +1,2 @@
 # TODO
-- Add CoffeeScript linter
+- ~~Add CoffeeScript linter~~
