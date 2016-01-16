@@ -1,3 +1,2 @@
-_ = require 'underscore'
-_.each [1,2,3], (v) ->
-  console.log v
+mongodb = require('mongodb')
+movies = require('./movies')

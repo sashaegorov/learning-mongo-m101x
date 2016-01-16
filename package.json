@@ -2,13 +2,22 @@
   "name": "learning-mongo-m101x",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.coffee",
   "dependencies": {
+    "assert": "^1.3.0",
+    "async": "^1.5.2",
+    "mocha": "^2.3.4",
+    "mongodb": "^2.1.4",
     "underscore": "^1.8.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.3.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test",
+    "watch": "gulp watch"
   },
   "author": "Alexander Egorov",
   "license": "MIT"

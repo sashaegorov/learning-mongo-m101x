@@ -1,2 +1,5 @@
 node_modules
+# Mongo DB data files
 mongodb
+# Quiz result
+output.dat
